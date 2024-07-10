@@ -1,0 +1,3 @@
+[submodule "LPC21XX/LPC21XX/STM32XX/MasteringMCU"]
+	path = LPC21XX/LPC21XX/STM32XX/MasteringMCU
+	url = https://github.com/niekiran/MasteringMCU.git
